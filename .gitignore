@@ -1,1 +1,4 @@
-.idea/
+.pytest_cache/
+.v/
+.week1/
+.week2/
